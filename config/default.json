@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "nya poka",
+  "mongoUri": "mongodb+srv://ars:1234@cluster0.jwx3a.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
